@@ -10,7 +10,7 @@ import pandas as pd
 from PySide6.QtGui import QIcon
 from PySide6.QtWidgets import QPushButton
 
-VERSION = "1.0.0"  # Defina a versão do seu programa
+VERSION = "0.1"  # Defina a versão do seu programa
 
 # Janela de cadastro/edição de contas
 class CadastroContaDialog(QDialog):
